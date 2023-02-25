@@ -10,6 +10,6 @@ int secondValue = 20;
 MyMethood(firstValue,secondValue);
 static void MyMethood( int a, int  b)
 {
-    Console.WriteLine($"addition is:-{a +b }");
-}
+    Console.WriteLine($"addition is:-{a +b }"); // Used string interpolation
+} 
 
