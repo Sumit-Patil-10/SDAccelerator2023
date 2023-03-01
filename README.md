@@ -12,3 +12,5 @@ This repo contains practice code for C# & .Net
 - [Strings](https://github.com/Sumit-Patil-10/SDAccelerator2023/blob/ed52a0fd127a355fc567f92e3bec97eaa165a536/String.cs)
 - [Method](https://github.com/Sumit-Patil-10/SDAccelerator2023/blob/ed52a0fd127a355fc567f92e3bec97eaa165a536/Method.cs)
 - [Class and Object](https://github.com/Sumit-Patil-10/SDAccelerator2023/blob/ed52a0fd127a355fc567f92e3bec97eaa165a536/Class&Object.cs)
+- [Working with Static](https://github.com/Sumit-Patil-10/SDAccelerator2023/blob/main/Static%26Non-static.cs)
+- [Array & list](https://github.com/Sumit-Patil-10/SDAccelerator2023/blob/main/Array%26List.cs)
